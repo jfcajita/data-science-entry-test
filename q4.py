@@ -13,6 +13,6 @@ def string_reverse(s):
     return s[::-1]
 
 
-print(string_reverse("Hello World"))
+print(string_reverse("Hello World"))    #Output: dlroW olleH
 
-print(string_reverse("Python"))
+print(string_reverse("Python"))     #Output: nohtyP
